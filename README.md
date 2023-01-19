@@ -36,3 +36,7 @@ A brain
 
 ### [+] Credits 
 <a href="https://github.com/DARKNOSY/Viper-Aiot">DARKNOSY</a>
+
+
+I am not responsible for any anything you might do with the knowledge you gain with this software
+By Reusing MY EXACT CODE without my permission, you are breaking the MIT contract (https://github.com/DARKNOSY/Viper-Aiot/blob/main/LICENSE)
