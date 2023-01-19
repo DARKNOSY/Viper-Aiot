@@ -28,6 +28,8 @@
 
 ### [+] Screenshot
 ![screenshot](https://github.com/DARKNOSY/Viper-Aiot/blob/main/Screen1.png)
+![screenshot](https://github.com/DARKNOSY/Viper-Aiot/blob/main/Screen2.png)
+![screenshot](https://github.com/DARKNOSY/Viper-Aiot/blob/main/Screen3.png)
 
 ### [+] Requirements
 A brain
