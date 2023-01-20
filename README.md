@@ -1,7 +1,7 @@
 <h2 align="center"><u>Viper Aiot</u></h2>
 
 ![Everything for a starter hacker or coder](https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3BpdC12aXBlci5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ==)
-<h4 align="center"> Everything for a starter hacker </h4>
+<h4 align="center"> Everything for a starter hacker or coder </h4>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/DARKNOSY/Viper-Aiot?style=for-the-badge&color=orange">
