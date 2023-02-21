@@ -23,7 +23,7 @@
 All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder
 
 ### [+] Installation
-`[https://github.com/DARKNOSY/Viper-Aiot/files/10474135/Viper.zip]`
+`https://github.com/DARKNOSY/Viper-Aiot/files/10474135/Viper.zip`
 
 ### [+] Usage
  - `Extract`
