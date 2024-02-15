@@ -1,6 +1,6 @@
 <h2 align="center"><u>Viper AIOT</u></h2>
 
-![Everything for a Starter Hacker or Coder](https://camo.githubusercontent.com/12c12e9779cef7eb5edcb35edaae7aa9bc6f40d4cebf2a169b3b8c8114aada6d/68747470733a2f2f6d656469612e6873777374617469632e636f6d2f65794a6964574e725a5851694f694a6a623235305a5735304c6d687a64334e30595852705979356a623230694c434a725a586b694f694a6e61575a634c334270644331326158426c63693571634763694c434a6c5a476c306379493665794a795a584e70656d55694f6e736964326c6b644767694f6a67794f483073496e5276526d397962574630496a6f6959585a705a694a3966513d3d)
+![preview](https://github.com/DARKNOSY/Viper-Aiot/blob/main/screens/menu.png)
 <h4 align="center"> Everything for a Starter Hacker or Coder </h4>
 
 <p align="center">
@@ -28,9 +28,6 @@ All In One Tool Containing Everything for a Starter Hacker, Cheater or Coder.
 ### [+] Usage
  - `Extract`
  - `Launch "0-Viper"`
-
-### [+] Screenshot
-![screenshot](https://github.com/DARKNOSY/Viper-Aiot/blob/main/screens/menu.png)
 
 ### [+] Features
 Discover Good Services for Every Subject included in this Aiot
