@@ -41,7 +41,3 @@ Discover Good Services for Every Subject included in this Aiot
 
 ### [+] Disclaimer 
 I am not responsible for any anything you might do with the knowledge you gain with this software By Reusing MY EXACT CODE without my permission, you are breaking the <a href="https://github.com/DARKNOSY/Viper-Aiot/blob/main/LICENSE">MIT contract</a>
-
-### [+] Find me on 
-<a href="mailto:dark.help87@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-dark.help87@yahoo.com-blue?style=for-the-badge&logo=gmail"></a>
-
